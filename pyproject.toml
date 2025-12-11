@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "todo-cli"
+version = "0.1.0"
+description = "A simple CLI todo app"
+authors = [{name="Michał Chlipała", email="michit7312@proton.me"}]
+readme = "README.md"
+requires-python = ">=3.10"
+keywords = ["todo", "cli"]
+
+[project.scripts]
+todoapp = "todoapp.main:main"

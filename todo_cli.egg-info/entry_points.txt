@@ -1,0 +1,2 @@
+[console_scripts]
+todoapp = todoapp.main:main

@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: todo-cli
+Version: 0.1.0
+Summary: A simple CLI todo app
+Author-email: Michał Chlipała <michit7312@proton.me>
+Keywords: todo,cli
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+sadass
