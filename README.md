@@ -13,13 +13,5 @@ pip install
 3. run the cli
 todoapp ...
 
-
-example:
-
-todoapp add "My first task"
-todoapp list
-todoapp update 1 "Updated task title"
-todoapp mark-in-progress 1
-todoapp list --status in-progress
-todoapp mark-done 1
-todoapp del 1
+EXAMPLES
+todoapp add "Task 1" / todoapp mark-in-progress 1 / todoapp list / todoapp list --status in-progress / todoapp del 1
